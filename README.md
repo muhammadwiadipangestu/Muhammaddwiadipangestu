@@ -318,7 +318,7 @@
 
             <div class="card">
                 <h2 class="section-title"><i class="fas fa-paper-plane"></i> Mari Terhubung</h2>
-                <p class="text-content" style="text-align: center;">Punya pertanyaan terkait OSIS, minat pada sains, atau ingin sekadar menyapa? Jangan ragu hubungi saya.</p>
+                <p class="text-content" style="text-align: center;">Punya pertanyaan terkait OSIS, minat pada sains, atau mengajak mabar, ingin sekadar menyapa? Jangan ragu hubungi saya.</p>
                 
                 <div class="contact-group">
                     <a href="https://wa.me/628566655594" target="_blank" class="btn-contact btn-wa">
