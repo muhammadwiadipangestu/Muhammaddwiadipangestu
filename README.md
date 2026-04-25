@@ -266,7 +266,7 @@
                 <div style="display: flex; gap: 10px; margin-top: 15px;">
                     <div style="flex: 1; background: var(--bg-secondary); padding: 10px; border-radius: 8px; text-align: center; border: 1px solid var(--border-gray);">
                         <p style="font-size: 11px; color: var(--text-light);">Free Fire ID</p>
-                        <strong style="font-size: 13px;">2092978297</strong>
+                        <strong style="font-size: 13px;">2192978297</strong>
                     </div>
                     <div style="flex: 1; background: var(--bg-secondary); padding: 10px; border-radius: 8px; text-align: center; border: 1px solid var(--border-gray);">
                         <p style="font-size: 11px; color: var(--text-light);">Roblox User</p>
@@ -311,14 +311,14 @@
                 <details>
                     <summary>Bisa diajak mabar Free Fire?</summary>
                     <div class="faq-content">
-                        Sangat bisa! Silakan *add* ID Free Fire saya (2092978297) atau hubungi langsung via DM Instagram untuk janjian mabar bareng anak-anak *guild*.
+                        Sangat bisa! Silakan *add* ID Free Fire saya (2192978297) atau hubungi langsung via DM Instagram atau WhatsApp untuk janjian mabar bareng anak-anak *guild*.
                     </div>
                 </details>
             </div>
 
             <div class="card">
                 <h2 class="section-title"><i class="fas fa-paper-plane"></i> Mari Terhubung</h2>
-                <p class="text-content" style="text-align: center;">Punya pertanyaan terkait OSIS, minat pada sains, atau mengajak mabar, ingin sekadar menyapa? Jangan ragu hubungi saya.</p>
+                <p class="text-content" style="text-align: center;">Punya pertanyaan terkait OSIS, minat pada sains, atau mengajak mabar dan ingin sekadar menyapa? Jangan ragu hubungi saya.</p>
                 
                 <div class="contact-group">
                     <a href="https://wa.me/628566655594" target="_blank" class="btn-contact btn-wa">
